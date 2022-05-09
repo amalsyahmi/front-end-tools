@@ -5,6 +5,12 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 * [Angular](https://angular.io)
 * [ReactJS](https://reactjs.org)
 * [VueJS](https://vuejs.org)
+* [NextJS](https://nextjs.org) (React Framework by Vercel)
+* [NuxtJS](https://nuxtjs.org) (The Intuitive Vue Framework)
+
+## UI framework/design
+* [Eva Design](https://eva.design) (Free and paid UI design- Figma/Sketch)
+* [Reshaped Design](https://reshaped.so) (Paid UI design - Figma)
 
 ## Icons and illustrations
 * [StreamlineHQ](https://streamlinehq.com/) (Free and premium icons)
@@ -18,3 +24,9 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 ## Github tools
 * [Gitmoji](https://gitmoji.dev)
 * [Gitmoji VScode extension](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode)
+
+## Backend
+* [Strapi](https://strapi.io) (Open Source headless CMS - Can combine with any frontend framework)
+
+## DevOps Things
+* [Dokku](https://dokku.com) (OpenSource Platform as a Service (PaaS) - Alternative to Heroku)
