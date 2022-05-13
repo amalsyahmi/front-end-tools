@@ -38,6 +38,7 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 
 ## DevOps Things
 * [Dokku](https://dokku.com) (OpenSource Platform as a Service (PaaS) - Alternative to Heroku)
+* [Vercel](https://vercel.com) (Frontend deployment platform)
 
 ## Tutorial videos/courses/notes
 * [Flutter UI Codes](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
