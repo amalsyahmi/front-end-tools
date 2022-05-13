@@ -8,6 +8,12 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 * [NextJS](https://nextjs.org) (React Framework by Vercel)
 * [NuxtJS](https://nuxtjs.org) (The Intuitive Vue Framework)
 
+## Mobile app framework
+* [Flutter](https://flutter.dev)
+* [React Native](https://reactnative.dev)
+* [Ionic](https://ionicframework.com)
+* [Apache Cordova](https://cordova.apache.org)
+
 ## UI framework/design
 * [Eva Design](https://eva.design) (Free and paid UI design- Figma/Sketch)
 * [Reshaped Design](https://reshaped.so) (Paid UI design - Figma)
@@ -30,3 +36,6 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 
 ## DevOps Things
 * [Dokku](https://dokku.com) (OpenSource Platform as a Service (PaaS) - Alternative to Heroku)
+
+## Tutorial videos/courses/notes
+* [Flutter UI Codes](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
