@@ -31,8 +31,10 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 * [Gitmoji](https://gitmoji.dev)
 * [Gitmoji VScode extension](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode)
 
-## Backend
+## Easy backend
+* [Firebase](firebase.google.com) (Free and paid for premium)
 * [Strapi](https://strapi.io) (Open Source headless CMS - Can combine with any frontend framework)
+* [Parse](https://parseplatform.org) (Object and file storage, user authentication, push notifications, dashboard, etc)
 
 ## DevOps Things
 * [Dokku](https://dokku.com) (OpenSource Platform as a Service (PaaS) - Alternative to Heroku)
