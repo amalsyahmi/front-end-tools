@@ -43,3 +43,6 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 
 ## Tutorial videos/courses/notes
 * [Flutter UI Codes](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
+
+## Linux
+* [Awesome Vim Plugin](https://vimawesome.com) (List of awesome vim editore plugins)
