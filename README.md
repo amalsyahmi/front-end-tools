@@ -39,6 +39,7 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 * [Parse](https://parseplatform.org) (Object and file storage, user authentication, push notifications, dashboard, etc)
 * [GraphCMS](https://graphcms.com) (API-First Headless Content Management System (CMS))
 * [Supabase](https://supabase.com) (Open source firebase alternative)
+* [Payload CMS](https://payloadcms.com) (Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB)
 
 ## DevOps Things
 * [Dokku](https://dokku.com) (OpenSource Platform as a Service (PaaS) - Alternative to Heroku)
