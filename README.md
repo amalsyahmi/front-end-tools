@@ -44,6 +44,7 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 ## DevOps Things
 * [Dokku](https://dokku.com) (OpenSource Platform as a Service (PaaS) - Alternative to Heroku)
 * [Vercel](https://vercel.com) (Frontend deployment platform)
+* [Railway](https://railway.app) (Easy deployment platform, with free 1-day last deployment)
 
 ## Email Services
 * [Mailgun](https://mailgun.com)
