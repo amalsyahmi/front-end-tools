@@ -49,6 +49,7 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 ## Email Services
 * [Mailgun](https://mailgun.com)
 * [SendGrid](https://sendgrid.com) (by Twilio)
+* [Full HTML Notes](https://html.spec.whatwg.org/)
 
 ## Tutorial videos/courses/notes
 * [Flutter UI Codes](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
