@@ -19,6 +19,7 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 * [Eva Design](https://eva.design) (Free and paid UI design- Figma/Sketch)
 * [Reshaped Design](https://reshaped.so) (Paid UI design - Figma)
 * [Uikit.to](https://uikit.to) (Free UI design - Figma)
+* [Framer Motion](https://www.framer.com/motion/) (A production-ready motion library for React.)
 
 ## Icons and illustrations
 * [StreamlineHQ](https://streamlinehq.com/) (Free and premium icons)
