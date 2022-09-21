@@ -20,6 +20,9 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 * [Reshaped Design](https://reshaped.so) (Paid UI design - Figma)
 * [Uikit.to](https://uikit.to) (Free UI design - Figma)
 * [Framer Motion](https://www.framer.com/motion/) (A production-ready motion library for React.)
+* [Penpot](https://github.com/penpot/penpot) (The first Open Source design and prototyping platform meant for cross-domain teams.)
+* [React Landing Page Template V1](https://github.com/issaafalkattan/React-Landing-Page-Template) (With open source codes)
+* [React Landing Page Template V2](https://github.com/issaafalkattan/react-landing-page-template-2021) (With open source codes)
 
 ## Icons and illustrations
 * [StreamlineHQ](https://streamlinehq.com/) (Free and premium icons)
@@ -30,9 +33,11 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 * [Ikonate](https://ikonate.com) (Open source custom color SVG icons)
 * [Simple Icons](https://simpleicons.org) (Open source brand icons)
 
-## Github tools
+## Git/Github tools
 * [Gitmoji](https://gitmoji.dev)
 * [Gitmoji VScode extension](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode)
+* [Gerrit](https://www.gerritcodereview.com) (Open source GitHub alternative)
+* [GitUI](https://github.com/extrawurst/gitui) (Git GUI in terminal)
 
 ## Easy backend
 * [Firebase](firebase.google.com) (Free and paid for premium)
