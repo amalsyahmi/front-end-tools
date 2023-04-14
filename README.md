@@ -46,6 +46,7 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 * [GraphCMS](https://graphcms.com) (API-First Headless Content Management System (CMS))
 * [Supabase](https://supabase.com) (Open source firebase alternative)
 * [Payload CMS](https://payloadcms.com) (Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB)
+* [PocketBase](https://pocketbase.io) (Open Source backend for your next SaaS and Mobile app - integrate nicely with Angular, React, Vue, Svelte & Flutter/Dart)
 
 ## DevOps Things
 * [Dokku](https://dokku.com) (OpenSource Platform as a Service (PaaS) - Alternative to Heroku)
