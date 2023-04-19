@@ -4,6 +4,7 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 ## Web framework
 * [Angular](https://angular.io)
 * [ReactJS](https://reactjs.org)
+* [Codux](https://www.codux.com) (Visual IDE for ReactJS)
 * [VueJS](https://vuejs.org)
 * [NextJS](https://nextjs.org) (React Framework by Vercel)
 * [NuxtJS](https://nuxtjs.org) (The Intuitive Vue Framework)
