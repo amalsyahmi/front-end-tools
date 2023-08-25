@@ -32,7 +32,8 @@ List out interesting software, framework, tools, etc. Feel free to PR for contri
 * [Remix Icons](http://remixicon.com) (Open source icons)
 * [Iconoir](https://iconoir.com) (Open source SVG icons)
 * [Ikonate](https://ikonate.com) (Open source custom color SVG icons)
-* [Simple Icons](https://simpleicons.org) (Open source brand icons)
+* [Simple Icons](https://simpleicons.org) (Open source B&W brand icons)
+* [World Vector Logo](https://worldvectorlogo.com) (Open source colored brand icons)
 
 ## Git/Github tools
 * [Gitmoji](https://gitmoji.dev)
